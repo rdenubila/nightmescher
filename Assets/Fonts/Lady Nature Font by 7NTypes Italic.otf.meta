@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cf68f437d6903b747bf2b09519132e54
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lady Nature
+  fontNames:
+  - Lady Nature
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cb4eada15c0d2bc4f901e64d829a6f12, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
